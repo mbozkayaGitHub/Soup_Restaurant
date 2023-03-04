@@ -1,3 +1,19 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Passions+Conflict&family=Roboto:wght@700&family=Sevillana&family=Yeon+Sung&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Yeon Sung', cursive;
+}
+
+
+body{
+  background-color: #282c34;
+  color:white
+}
 .App {
   text-align: center;
 }
