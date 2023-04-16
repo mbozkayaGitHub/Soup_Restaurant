@@ -8,7 +8,7 @@ import "./Footer.css"
 const Footer = () => {
   return (
 <footer>
-  <p>Copyright by CLARUSWAY RESTORANT ZİNCİRİ {new Date().getFullYear()}</p>
+  <p>Copyright by BOZKAYA RESTORANT ZİNCİRİ {new Date().getFullYear()}</p>
 </footer>
   )
 }
