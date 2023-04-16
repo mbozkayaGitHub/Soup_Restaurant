@@ -7,7 +7,7 @@ const Header = () => {
 
       <div className="headerRigth">
         <h3>
-          <span class="steve">CLARUSWAY </span>
+          <span class="steve">BOZKAYA </span>
           Çorba Salonu
         </h3>
 <br />        <h3 class="mesai">Gece 2 ye kadar açıktır</h3>
